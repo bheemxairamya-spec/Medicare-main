@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Medicare",
+  "description": "Comprehensive healthcare platform for medication reminders, blood donation, IoT monitoring, wellness guidance, and appointment management in one responsive app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
